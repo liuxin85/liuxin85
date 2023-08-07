@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @liuxin85
 - 👀 I’m interested in react/next.js
-- 🌱 I’m currently learning next.js 18
+- 🌱 I’m currently learning many techs.
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me liuxin85@gmail.com
 
